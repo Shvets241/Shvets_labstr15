@@ -1,0 +1,1 @@
+git remote add origin https://github.com/Shvets241/Shvets_labstr15.git
